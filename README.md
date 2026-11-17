@@ -33,7 +33,7 @@ Picked for this list: deals of 35% or more on iPhone and iPad apps, and 50% or m
 
 | App | Platforms | Description | Deal | Dates |
 | --- | --- | --- | --- | --- |
-| [mhm](https://apps.apple.com/app/mhm-you-too/id6826873538) | iOS | Your thought stays private until it becomes mutual. · [Website](https://mhmtoo.app) | 💸 ♾️ **50% OFF Lifetime** · $49.99 → $24.99 · no code · **60% OFF** first year of Yearly · $29.99 → $11.99 · code `BFCM26` (new subscribers, 7-day trial kept) | Nov 19 – Dec 2 |
+| [mhm](https://apps.apple.com/app/mhm-you-too/id6826873538) | iOS | Your thought stays private until it becomes mutual. · [Website](https://mhmtoo.app) | 💸 ♾️ **50% OFF Lifetime** · $49.99 → $24.99 · no code · **60% OFF** first year of Yearly · $29.99 → $11.99 · code `BFCM26` (new subscribers, 7-day trial kept) | Nov 17 – Dec 2 |
 | [BeginAnyway](https://apps.apple.com/us/app/beginanyway/id6811712330) | iOS | A morning alarm for people who freeze on the first step, with one tiny task to start the day. | ♾️ **37% OFF Plus Lifetime** · $39.99 → $24.99 · no code | Nov 27 – Dec 1 |
 | [Comic Weather](https://comicweather.app/black-friday) | iOS | Weather app for iPhone that turns your forecast into a comic book page: Apple Weather forecasts painted as comic panels in… | 💸 ♾️ **67% OFF** · $2.99 → $0.99 · no code | until Nov 30 |
 | [Cozy](https://cozyjournal.app) | iOS, macOS | Private journal for Mac, Windows, and iPhone with entries stored as local files. | 💸 ♾️ **50% OFF** · $49 → $24.50 · code `BLACKFRIDAY` | Nov 23 – Nov 30 |
